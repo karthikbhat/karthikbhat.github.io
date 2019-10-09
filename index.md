@@ -1,6 +1,8 @@
 ---
 layout: single
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 Hi, my name is Karthik Bhat. I am a technologist, developer and engineering leader. I help conceptualize, build and launch products in InfoSec, Privacy and CyberSecurity space. 
