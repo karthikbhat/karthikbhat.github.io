@@ -1,8 +1,18 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Welcome to my Personal Home Page
+Hi, my name is Karthik Bhat. I am a technologist, developer and engineering leader. I help conceptualize, build and launch products in InfoSec, Privacy and CyberSecurity space. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### More Recent Work
+
+* [Trusted Data Format (TDF)](https://github.com/virtru/tdf3-spec) : Open, Interoperable, JSON encoded data format for implementing Data Centric Security for objects (such as files or emails). The latest version of TDF is TDF3. Check out its [capabilities](https://github.com/virtru/tdf3-spec#features-and-capabilities).
+
+* [Virtru Developer Platform](https://developer.virtru.com): Enables developers to build privacy centric applications from ground-up. 
+
+* [Virtru Network Protection Gateways] 
+
+
+### More Recent Work
