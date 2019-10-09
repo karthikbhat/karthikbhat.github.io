@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-## Welcome to my Personal Home Page
 Hi, my name is Karthik Bhat. I am a technologist, developer and engineering leader. I help conceptualize, build and launch products in InfoSec, Privacy and CyberSecurity space. 
 
 ### More Recent Work
