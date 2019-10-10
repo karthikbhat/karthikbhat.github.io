@@ -35,4 +35,4 @@ I led teams that built these technologies:
 
 * DevSecOps, Secure SDLC, Defense Driven Development, and building security from the ground up
 
-* Leading Engineering Orgs
+* Leading high performing engineering Orgs
