@@ -20,7 +20,7 @@ I led teams that built these technologies:
 ### Recent Work
 
 * I co-founded a company to make it easy for developers and enterprises to encrypt, protect and manage [customer Identity data](https://www.linkedin.com/pulse/world-needs-encrypted-identity-manager-now-karthik-bhat/).
-*   
+* Based on the tech outlined in this [RepoSe system](https://github.com/karthikbhat/RepoSe/blob/master/RepoSe_Paper.pdf) whitepaper. 
 
 
 ### Ask me about
