@@ -17,4 +17,24 @@ I led teams that built these technologies:
 * [Virtru Network Protection Gateways](https://www.virtru.com/saas-application-encryption/): Enables Enterprises and SaaS Applications to protect sensitive content. 
 
 
-### More Recent Work
+### Recent Work
+
+* I co-founded a company to make it easy for developers and enterprises to encrypt, protect and manage [customer Identity data](https://www.linkedin.com/pulse/world-needs-encrypted-identity-manager-now-karthik-bhat/).
+*   
+
+
+### Ask me about
+
+* Building Developer Platforms (and developer communities) in privacy and security space.
+
+* Protecting sensitive data (Files, Emails, Keys, or records in a DB) 
+
+* End to end encryption
+
+* Identity and Access Management
+
+* Leading Engineers Orgs to bring simple, user friendly solutions
+
+* 
+
+

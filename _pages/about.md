@@ -14,4 +14,4 @@ Hi, my name is Karthik Bhat. I am a technologist, developer and engineering lead
 * [Virtru Network Protection Gateways] 
 
 
-### More Recent Work
+### Recent Work
