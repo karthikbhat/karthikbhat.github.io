@@ -25,16 +25,14 @@ I led teams that built these technologies:
 
 ### Ask me about
 
-* Building Developer Platforms (and developer communities) in privacy and security space.
+* Data Centric Security and User Centric Privacy
 
 * Protecting sensitive data (Files, Emails, Keys, or records in a DB) 
 
-* End to end encryption
+* Building Developer Platforms (and developer communities) in privacy and security space.
 
 * Identity and Access Management
 
-* Leading Engineers Orgs to bring simple, user friendly solutions
-
-* 
+* Leading Engineers Orgs
 
 
