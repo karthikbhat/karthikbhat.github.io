@@ -27,12 +27,12 @@ I led teams that built these technologies:
 
 * Data Centric Security and User Centric Privacy
 
-* Protecting sensitive data (Files, Emails, Keys, or records in a DB) 
+* Protecting sensitive data (Files, Emails, Keys, records in a DB, or entire Databases) 
 
-* Building Developer Platforms (and developer communities) in privacy and security space.
+* Building Developer Platforms, Developer communities and DevRel Programs - especially in privacy and security space.
 
 * Identity and Access Management
 
-* Leading Engineers Orgs
+* DevSecOps, Secure SDLC, Defense Driven Development, and building security from the ground up
 
-
+* Leading Engineering Orgs
