@@ -1,6 +1,8 @@
 ---
 permalink: /talks/
 title: "Talks"
+toc: true
+toc_sticky: true
 ---
 
 Here ares some of my talks: 
