@@ -32,7 +32,7 @@ I led teams that built these technologies:
 
 * Building Developer Platforms, Developer communities and DevRel Programs - especially in privacy and security space.
 
-* Identity and Access Management (and next-gen User-centric Identity solutions)
+* Identity and Access Management (and next-gen User-centric, decentralized Identity solutions)
 
 * DevSecOps, Secure SDLC, [Defense Driven Development](https://www.slideshare.net/KarthikBhat17/software-development-in-the-age-of-breaches), and building security from the ground up
 
