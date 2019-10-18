@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-Hi, my name is Karthik Bhat. I am a technologist, developer and engineering leader. I help conceptualize, build and launch products in InfoSec, Privacy and CyberSecurity space. 
+Hi, my name is Karthik Bhat. I am a technologist, developer and engineering leader. I help conceptualize, build and launch products in InfoSec, Privacy, Identity and CyberSecurity space. 
 
 ### More Recent Work
 I led teams that built these technologies:
@@ -20,19 +20,20 @@ I led teams that built these technologies:
 ### Recent Work
 
 * I co-founded a company to make it easy for developers and enterprises to encrypt, protect and manage [customer Identity data](https://www.linkedin.com/pulse/world-needs-encrypted-identity-manager-now-karthik-bhat/).
-* Based on the tech outlined in this [RepoSe system](https://github.com/karthikbhat/RepoSe/blob/master/RepoSe_Paper.pdf) whitepaper. 
+* Based on the tech outlined in this [RepoSe system (Part 1)](https://github.com/karthikbhat/RepoSe/blob/master/RepoSe_Paper.pdf) whitepaper. 
 
 
 ### Ask me about
+(in no particular order) 
 
 * Data Centric Security and User Centric Privacy
 
-* Protecting sensitive data (Files, Emails, Keys, records in a DB, or entire Databases) 
+* Protecting sensitive data (Files, Identities, Emails, Keys, records in a DB, or entire Databases) 
 
 * Building Developer Platforms, Developer communities and DevRel Programs - especially in privacy and security space.
 
-* Identity and Access Management
+* Identity and Access Management (and next-gen User-centric Identity solutions)
 
-* DevSecOps, Secure SDLC, Defense Driven Development, and building security from the ground up
+* DevSecOps, Secure SDLC, [Defense Driven Development](https://www.slideshare.net/KarthikBhat17/software-development-in-the-age-of-breaches), and building security from the ground up
 
-* Leading high performing engineering Orgs
+* Leading high performance engineering orgs
