@@ -10,7 +10,7 @@ Hi, my name is Karthik Bhat. I am a technologist, developer and engineering lead
 ### Current Work (Okta)
 I help build Passwordless Identity platform @ Okta. I lead Okta's Devices Platform team that enables high-assurance, cryptographically bound Device based authentication system. 
 
-* Check out (Okta FastPass)[https://www.okta.com/fastpass/]
+* Check out [Okta FastPass](https://www.okta.com/fastpass/)
 
 ### Past Work 1 (Virtru Corp)
 I led teams that built these technologies:
