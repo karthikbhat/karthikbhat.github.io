@@ -10,6 +10,8 @@ Hi, my name is Karthik Bhat. I am a technologist, developer and engineering lead
 ### Current Work
 I help build Passwordless Identity ecosystem @ Okta. I lead Okta's Devices Platform team that enables high-assurance, cryptographically bound Device based Identity system.
 
+* Check out (Okta FastPass)[https://www.okta.com/fastpass/]
+
 ### Past Work 1
 I led teams that built these technologies:
 
@@ -29,14 +31,16 @@ I led teams that built these technologies:
 ### Ask me about
 (in no particular order) 
 
-* Data Centric Security and User Centric Privacy
+* Leading high performance engineering orgs
+
+* Creating a culture of innovation
+
+* Building high-assurance "Password-less" Identity systems
 
 * Protecting sensitive data (Files, Identities, Emails, Keys, records in a DB, or entire Databases) 
 
 * Building Developer Platforms, Developer communities and DevRel Programs - especially in privacy and security space.
 
-* Identity and Access Management (and next-gen User-centric, decentralized Identity solutions)
-
 * DevSecOps, Secure SDLC, [Defense Driven Development](https://www.slideshare.net/KarthikBhat17/software-development-in-the-age-of-breaches), and building security from the ground up
 
-* Leading high performance engineering orgs
+
